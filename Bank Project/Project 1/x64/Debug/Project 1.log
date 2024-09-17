@@ -1,0 +1,8 @@
+﻿  Project 1.cpp
+D:\Programation Files\Programation Level 1\Algorith & Probleme solving levl 4\Project 1\Project 1\Project 1.cpp(68,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programation Files\Programation Level 1\Algorith & Probleme solving levl 4\Project 1\Project 1\Project 1.cpp(874): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\Programation Files\Programation Level 1\Algorith & Probleme solving levl 4\Project 1\Project 1\Project 1.cpp(916): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+D:\Programation Files\Programation Level 1\Algorith & Probleme solving levl 4\Project 1\Project 1\Project 1.cpp(956): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\Programation Files\Programation Level 1\Algorith & Probleme solving levl 4\Project 1\Project 1\Project 1.cpp(996): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+D:\Programation Files\Programation Level 1\Algorith & Probleme solving levl 4\Project 1\Project 1\Project 1.cpp(1023): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Project 1.vcxproj -> D:\Programation Files\Programation Level 1\Algorith & Probleme solving levl 4\Project 1\x64\Debug\Project 1.exe
