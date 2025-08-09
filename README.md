@@ -4,28 +4,7 @@
 
 This project is a **Bank Management System** developed as a **Console Application in C++** using a **Functional Programming** approach. It provides a simple, menu-driven interface to manage clients, users, and transactions without using Object-Oriented Programming (OOP).
 
-The project focuses on practicing file-based data storage and CRUD operations (Create, Read, Update, Delete) with dedicated functions handling each feature. It is the foundational version before transitioning to a more advanced OOP architecture.
-
----
-
-## 🔹 Main Menu Screen
-
-===========================================
-Main Menu Screen
-csharp
-Copier
-Modifier
-    [1] Show Client List.
-    [2] Add New Client.
-    [3] Delete Client.
-    [4] Update Client Info.
-    [5] Find Client.
-    [6] Transactions.
-    [7] Manage Users.
-    [8] Logout.
-===========================================
-Choose what do you want to do? [1 to 8]?
-
+The project focuses on practicing file-based data storage and CRUD operations (Create, Read, Update, Delete) with dedicated functions handling each feature. It is the foundational version before transitioning to a more 
 
 ---
 
